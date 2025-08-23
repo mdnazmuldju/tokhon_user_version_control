@@ -3,7 +3,7 @@
     <channel>
         <title>Tokhon App - Appcast</title>
         <item>
-            <title>Version 1.0.10</title>
+            <title>Version 1.0.16</title>
             <description>
                 <![CDATA[
                     🎉 What's New in Version 1.0.16:
@@ -16,7 +16,7 @@
             </description>
             <pubDate>Tue, 06 May 2025 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.goridelagbeapp.customer"
-                       sparkle:version="19"
+                       sparkle:version="20"
                        sparkle:os="android"
                        length="0"
                        type="application/vnd.android.package-archive" />
