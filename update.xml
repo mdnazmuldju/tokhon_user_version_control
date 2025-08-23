@@ -16,7 +16,7 @@
             </description>
             <pubDate>Tue, 06 May 2025 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.goridelagbeapp.customer"
-                       sparkle:version="10"
+                       sparkle:version="19"
                        sparkle:os="android"
                        length="0"
                        type="application/vnd.android.package-archive" />
